@@ -1,21 +1,29 @@
-MIT License
+Omada Free Tool Licence 1.0 (LICENSE file for tools with usage data)
+Copyright © 2026 Omada A/S
+Licence. 
+Omada A/S ("Omada") grants you a free-of-charge, non-exclusive, non-transferable,
+revocable licence to install and use this tool for your own 
+internal business purposes in connection with Omada software.
 
-Copyright (c) 2026 Omada tool community
+Usage data. 
+As a condition of this licence, the tool sends usage data to 
+Omada as described in the Data Collection Notice shown when the tool is first opened. 
+You may not disable, remove or circumvent this function.Restrictions. 
+You may not sell, sublicense or distribute the tool, or modify it except for your own internal use, 
+provided that section 2 is complied with.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Termination. 
+This licence ends automatically if you breach it, 
+or if you object to the processing of usage data or ask Omada to delete your data. 
+You must then stop using and delete the tool. 
+Omada may also end this licence at any time.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+No warranty, no liability. 
+The tool is provided "as is", without warranties of any kind. 
+It is not covered by any support, maintenance or other agreement with Omada. 
+To the fullest extent permitted by applicable law, 
+Omada is not liable for any loss or damage arising from its use. 
+Nothing in this licence excludes liability that cannot be excluded under applicable law.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Governing law. 
+This licence is governed by Danish law.
